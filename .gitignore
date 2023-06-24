@@ -1,0 +1,8 @@
+__pycache__/
+*documents
+*decompress
+*pure
+myenv/
+
+# Environments
+.env
